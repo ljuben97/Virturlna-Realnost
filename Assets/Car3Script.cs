@@ -21,7 +21,7 @@ public class Car3Script : MonoBehaviour
         rigidbody.velocity = transform.forward * 5f;
         counter++;
 
-        if (counter == 1700)
+        if (counter == 1000)
         {
             rigidbody.position = startingPosition;
             counter = 0;
