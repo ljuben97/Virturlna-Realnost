@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/pause_menu.unity
     guid: 3b12435f122f9354bb3e4168d81a860e
+  - enabled: 1
+    path: Assets/game_over.unity
+    guid: 4f8e9e0f20a950242b338ebbf9b9e966
   m_configObjects: {}
